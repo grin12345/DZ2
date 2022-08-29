@@ -9,7 +9,7 @@ int x2 = int.Parse(Console.ReadLine());
 int y2 = int.Parse(Console.ReadLine());
 //int e = (x1-x2) * (x1-x2);
 //int f = (y1-y2) * (y1-y2);
-//int sum = e + f;
-//int res = Math.Sqrt (sum);
+//
+//double res = Math.Sqrt (e+f);
 Console.WriteLine (Math.Sqrt ((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2)));
 
