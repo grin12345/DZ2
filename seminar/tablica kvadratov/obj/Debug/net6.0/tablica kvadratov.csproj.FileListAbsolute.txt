@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\bin\Debug\net6.0\tablica kvadratov.exe
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\bin\Debug\net6.0\tablica kvadratov.deps.json
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\bin\Debug\net6.0\tablica kvadratov.runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\bin\Debug\net6.0\tablica kvadratov.dll
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\bin\Debug\net6.0\tablica kvadratov.pdb
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.dll
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\refint\tablica kvadratov.dll
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.pdb
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\tablica kvadratov.genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\seminar\tablica kvadratov\obj\Debug\net6.0\ref\tablica kvadratov.dll
