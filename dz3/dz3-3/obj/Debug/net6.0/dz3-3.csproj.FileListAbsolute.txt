@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\bin\Debug\net6.0\dz3-3.exe
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\bin\Debug\net6.0\dz3-3.deps.json
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\bin\Debug\net6.0\dz3-3.runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\bin\Debug\net6.0\dz3-3.dll
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\bin\Debug\net6.0\dz3-3.pdb
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.dll
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\refint\dz3-3.dll
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.pdb
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\dz3-3.genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\dz3\dz3-3\obj\Debug\net6.0\ref\dz3-3.dll
