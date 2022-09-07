@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\bin\Debug\net6.0\example6 (37).exe
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\bin\Debug\net6.0\example6 (37).deps.json
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\bin\Debug\net6.0\example6 (37).runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\bin\Debug\net6.0\example6 (37).dll
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\bin\Debug\net6.0\example6 (37).pdb
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).dll
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\refint\example6 (37).dll
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).pdb
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\example6 (37).genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\seminar3-1\example6 (37)\obj\Debug\net6.0\ref\example6 (37).dll
