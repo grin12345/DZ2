@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\bin\Debug\net6.0\example5 (61).exe
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\bin\Debug\net6.0\example5 (61).deps.json
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\bin\Debug\net6.0\example5 (61).runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\bin\Debug\net6.0\example5 (61).dll
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\bin\Debug\net6.0\example5 (61).pdb
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).dll
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\refint\example5 (61).dll
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).pdb
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\example5 (61).genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\seminar8\example5 (61)\obj\Debug\net6.0\ref\example5 (61).dll
