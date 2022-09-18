@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\bin\Debug\net6.0\dz 8-4 (60).exe
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\bin\Debug\net6.0\dz 8-4 (60).deps.json
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\bin\Debug\net6.0\dz 8-4 (60).runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\bin\Debug\net6.0\dz 8-4 (60).dll
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\bin\Debug\net6.0\dz 8-4 (60).pdb
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).dll
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\refint\dz 8-4 (60).dll
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).pdb
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\dz 8-4 (60).genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\dz 8\dz 8-4 (60)\obj\Debug\net6.0\ref\dz 8-4 (60).dll
