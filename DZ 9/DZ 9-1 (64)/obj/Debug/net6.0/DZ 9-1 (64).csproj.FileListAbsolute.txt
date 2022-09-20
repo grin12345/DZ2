@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\bin\Debug\net6.0\DZ 9-1 (64).exe
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\bin\Debug\net6.0\DZ 9-1 (64).deps.json
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\bin\Debug\net6.0\DZ 9-1 (64).runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\bin\Debug\net6.0\DZ 9-1 (64).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\bin\Debug\net6.0\DZ 9-1 (64).pdb
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\refint\DZ 9-1 (64).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).pdb
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\DZ 9-1 (64).genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-1 (64)\obj\Debug\net6.0\ref\DZ 9-1 (64).dll

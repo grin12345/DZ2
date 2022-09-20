@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).AssemblyInfo.cs
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\bin\Debug\net6.0\DZ 9-2 (66).exe
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\bin\Debug\net6.0\DZ 9-2 (66).deps.json
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\bin\Debug\net6.0\DZ 9-2 (66).runtimeconfig.json
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\bin\Debug\net6.0\DZ 9-2 (66).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\bin\Debug\net6.0\DZ 9-2 (66).pdb
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\refint\DZ 9-2 (66).dll
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).pdb
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\DZ 9-2 (66).genruntimeconfig.cache
+C:\Users\Александр\Desktop\DZ2\DZ 9\DZ 9-2 (66)\obj\Debug\net6.0\ref\DZ 9-2 (66).dll
